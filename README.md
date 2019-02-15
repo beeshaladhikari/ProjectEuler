@@ -1,2 +1,2 @@
 # ProjectEuler
-Solutions to the problems of Project Euler
+Solution to the problems of Project Euler
